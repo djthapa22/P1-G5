@@ -16,9 +16,10 @@ Our group had filtered the two datasets Minneapolis Property Assessor Value and 
 
 In our Analysis document,linked below, we outline our findings and further filter for our ideal two neighborhoods.
 
-![Analysis Document](https://github.com/djthapa22/P1-G5/blob/main/Group5/supporting_docs/Group5_Analysis.docx)
 
 <ins>Relevant Files:</ins>
+* Analysis Document
+![Analysis Document](https://github.com/djthapa22/P1-G5/blob/main/Group5/supporting_docs/Group5_Analysis.docx)
 
 * Main Jupyter Notebook for project
 ![CombinedDataR.ipynb](https://github.com/djthapa22/P1-G5/blob/main/Group5/CombinedDataR.ipynb)
