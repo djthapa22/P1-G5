@@ -20,12 +20,16 @@ In our Analysis document,linked below, we outline our findings and further filte
 
 <ins>Relevant Files:</ins>
 
-CombinedDataR.ipynb: Main Jupyter Notebook for project
+* Main Jupyter Notebook for project
+![CombinedDataR.ipynb](https://github.com/djthapa22/P1-G5/blob/main/Group5/CombinedDataR.ipynb)
 
-Project1_Group5_Proposal.Docx: initial proposal for group project
+* Initial proposal for group project
+![Project1_Group5_Proposal.Docx](https://github.com/djthapa22/P1-G5/blob/main/Group5/Project1_Group5_Proposal.docx)
 
-figures folder: Output of figures used for slideshow
+* Output of figures used for slideshow
+![figures folder](https://github.com/djthapa22/P1-G5/tree/main/Group5/figures)
 
-supporting_docs folder: Folder contains group analysis doc and slideshow used for presentation
+* Folder contains group analysis doc and slideshow used for presentation
+[supporting_docs folder](https://github.com/djthapa22/P1-G5/tree/main/Group5/supporting_docs) 
 
 
