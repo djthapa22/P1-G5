@@ -6,10 +6,12 @@ Motor vehicle theft in Minneapolis has been on the rise since 2020 and a slow do
 
 
 <ins>Methodology:</ins>
+
 Our group had filtered the two datasets Minneapolis Property Assessor Value and Minneapolis crime count to see if there was a meaningful relationship between Average Neighborhood Value per unit (Per Unit Value) and Crime Count Types.
 
 
 <ins>Analysis and Findings:</ins>
+
 In our Analysis document,linked below, we outline our findings and further filter for our ideal two neighborhoods.
 
 ![Analysis Document](https://github.com/djthapa22/P1-G5/blob/main/Group5/supporting_docs/Group5_Analysis.docx)
