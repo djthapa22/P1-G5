@@ -4,6 +4,16 @@
 
 Motor vehicle theft in Minneapolis has been on the rise since 2020 and a slow down is not in sight; over 700 cars were stolen in Minneapolis in January 2023. Knowing where this crime occurs frequently is useful when determining if an area is safe to live in or visit.
 
+Relevant Files:
+
+CombinedDataR.ipynb: Main Jupyter Notebook for project
+
+Project1_Group5_Proposal.Docx: initial proposal for group project
+
+figures folder: Output of figures used for slideshow
+
+supporting_docs folder: Folder contains group analysis doc and slideshow used for presentation
+
 
 <ins>Methodology:</ins>
 
